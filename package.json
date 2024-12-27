@@ -1,0 +1,19 @@
+{
+  "name": "now-playing-component",
+  "version": "1.0.0",
+  "description": "Pulls the last (or current) played song from your Spotify profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmatheson/spotify-last-played.git"
+  },
+  "author": "Paul Matheson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulmatheson/spotify-last-played/issues"
+  },
+  "homepage": "https://github.com/paulmatheson/spotify-last-played#readme"
+}
